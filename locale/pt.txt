@@ -1,0 +1,58 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_08259CBC_2E25_6AF1_41AD_E134C05EFEFB.source = https://g.page/r/CWnfzBfdI3lbEB0/review
+LinkBehaviour_05168607_2E25_799F_41C1_135C86967D4D.source = https://g.page/r/CWnfzBfdI3lbEB0/review
+LinkBehaviour_0A4BF4B6_2E25_FAF1_419A_29DBE44FEAD6.source = https://maps.app.goo.gl/FHVF35j8HA9oni7XA
+LinkBehaviour_08200CBB_2E25_6AF7_41A2_97D76B33CA12.source = https://maps.app.goo.gl/FHVF35j8HA9oni7XA
+LinkBehaviour_08224CBE_2E25_6AF1_41C6_8484E061EFF3.source = https://wa.me/48996982322
+LinkBehaviour_09E1D20F_2E27_79AF_41B2_ACC166DE29B1.source = https://wa.me/48996982322
+LinkBehaviour_0748E010_2E26_F9B1_4199_670B9DE6BC98.source = https://www.instagram.com/espacovida_saude/
+LinkBehaviour_08238CBD_2E25_6AF3_41C5_93D9FDD6A718.source = https://www.instagram.com/espacovida_saude/
+LinkBehaviour_0825ECC4_2E25_6A91_41C2_51BB44BBCDFC.source = https://www.instagram.com/rankingdigital360/
+LinkBehaviour_08B5D41F_2E25_39AE_41C6_452907FAC6A2.source = https://www.instagram.com/rankingdigital360/
+LinkBehaviour_0748E0BF_2E22_FAEF_41A2_1E46EDCCFC0B.source = https://www.instagram.com/rankingdigital360/
+
+## Media
+
+### Audio
+audiores_0007DE69_2E1E_E992_41B3_2AEECBD7A648.mp3Url = media/audio_0C48E9F6_2E25_EA71_41B8_F62CE20B81B8_pt.mp3
+
+### Title
+panorama_36A59F1B_2E1F_67B6_41B8_74F12773EBF7.label = atendimento
+panorama_3BCB5631_2E1F_59F3_41BB_6C5E21262D8C.label = entrada
+panorama_3BCB37B7_2E1F_26FF_41A1_7CE19B2FA087.label = espaco
+panorama_3BCA9B17_2E1F_2FBF_419D_33F22C725FEA.label = espaco 1
+panorama_3BCB31AF_2E1F_FAEF_41BE_6AEDE37F1C07.label = espaco 2
+panorama_3BC8A79F_2E1F_26AF_41BA_AA8133C1AF89.label = espaco 3
+panorama_3BCB4D03_2E1F_2B97_41B8_AADC6B2E499C.label = espaco 4
+panorama_3BC8D2DE_2E1F_7EAE_41C3_04BE1ED60AA8.label = espaco 5
+panorama_3BCB1DD8_2E1F_2AB1_417B_01AFB727FC85.label = rua
+panorama_3BC932DB_2E1E_FEB6_41BE_7941DC16E7E6.label = sala 1
+panorama_3BCADA39_2E1D_29F2_4184_E2FED3A88B66.label = salas
+
+## Skin
+
+### Image
+Image_09A342B0_2E25_3EF2_41A7_F141658FC839_mobile.url = skin/Image_09A342B0_2E25_3EF2_41A7_F141658FC839_mobile_pt.png
+Image_09A342B0_2E25_3EF2_41A7_F141658FC839.url = skin/Image_09A342B0_2E25_3EF2_41A7_F141658FC839_pt.png
+Image_0B33DDD8_2E23_EAB2_41C6_EFE2EC997662_mobile.url = skin/Image_0B33DDD8_2E23_EAB2_41C6_EFE2EC997662_mobile_pt.png
+Image_0B33DDD8_2E23_EAB2_41C6_EFE2EC997662.url = skin/Image_0B33DDD8_2E23_EAB2_41C6_EFE2EC997662_pt.png
+Image_0B6C8D91_2E22_EAB3_41C7_3CAE21F7A1D3_mobile.url = skin/Image_0B6C8D91_2E22_EAB3_41C7_3CAE21F7A1D3_mobile_pt.png
+Image_0B6C8D91_2E22_EAB3_41C7_3CAE21F7A1D3.url = skin/Image_0B6C8D91_2E22_EAB3_41C7_3CAE21F7A1D3_pt.png
+Image_0BEA5F8E_2E22_E691_41A6_76B0B270AF46_mobile.url = skin/Image_0BEA5F8E_2E22_E691_41A6_76B0B270AF46_mobile_pt.png
+Image_0BEA5F8E_2E22_E691_41A6_76B0B270AF46.url = skin/Image_0BEA5F8E_2E22_E691_41A6_76B0B270AF46_pt.png
+Image_0C25815A_2E22_FBB6_41C1_DA9B026EB0D0_mobile.url = skin/Image_0C25815A_2E22_FBB6_41C1_DA9B026EB0D0_mobile_pt.png
+Image_0C25815A_2E22_FBB6_41C1_DA9B026EB0D0.url = skin/Image_0C25815A_2E22_FBB6_41C1_DA9B026EB0D0_pt.png
+Image_0CEE466E_2E23_E66E_4185_6C3CE91B069A.url = skin/Image_0CEE466E_2E23_E66E_4185_6C3CE91B069A_pt.png
+Image_0DA01472_2E25_3A71_41B2_7EC010D84036_mobile.url = skin/Image_0DA01472_2E25_3A71_41B2_7EC010D84036_mobile_pt.png
+Image_0DA01472_2E25_3A71_41B2_7EC010D84036.url = skin/Image_0DA01472_2E25_3A71_41B2_7EC010D84036_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Espaço Vida
